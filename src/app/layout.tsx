@@ -5,7 +5,6 @@ import { Lora } from "next/font/google";
 import { isDesktopApp } from "@/utils/desktop";
 import { cn } from "@/utils/cn";
 import "./globals.css";
-import "@/styles/globals.css";
 
 const lora = Lora({
   weight: "400",
